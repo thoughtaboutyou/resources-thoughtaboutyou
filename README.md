@@ -1,5 +1,21 @@
 # [resources-thoughtaboutyou](https://github.com/thoughtaboutyou/resources-thoughtaboutyou)
 
+
+
+---
+
+
+
+> ## ⚠️ This project has been archived
+>
+> No future updates are planned. Feel free to continue using it, but expect no support.
+
+
+
+---
+
+
+
 [Thought About You][TAY] original resources, like graphics
 
 
